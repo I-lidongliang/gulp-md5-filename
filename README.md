@@ -1,2 +1,3 @@
 # gulp-md5-filename
-gulp 文件名md5
+工具：gulp
+作用：构建时给文件名加md5并替换应用的文件引用名
